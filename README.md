@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hrushikesh Patil
 ========================================================================================================================================
 
-Data Analyst
+Data 
 ------------
 
 I’m Hrushikesh Patil, an MCA candidate who graduated with a Bachelor of Computer Applications in 2024. My academic journey equipped me with a robust grounding in algorithms, data structures, and database design while igniting a fascination for data‑driven problem solving. Today, I channel that curiosity into Python scripting, SQL querying, Excel analytics, insightful dashboards in Power BI, and the transformative field of AI/Machine Learning. I thrive in diverse, collaborative teams where sharing knowledge accelerates innovation.
